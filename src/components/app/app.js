@@ -45,6 +45,7 @@ export default class App extends Component {
 
     return (
       <div className="app">
+        <h1>Товарный поиск </h1>
         <SearchPanel
           onUpdateSearch={this.onUpdateSearch}
           getGoods={this.getGoods}
