@@ -1,0 +1,12 @@
+.search-panel {
+  display: flex;
+  column-gap: 20px;
+  padding: 25px;
+  background-color: #b3b8bd;
+  box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.15);
+  color: rgb(5, 4, 4);
+}
+
+.search-panel h2 {
+  flex: 1 0 10%;
+}
