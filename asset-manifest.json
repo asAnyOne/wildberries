@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wildberries/static/css/main.3747d40b.css",
+    "main.js": "/wildberries/static/js/main.1d7aa7e5.js",
+    "index.html": "/wildberries/index.html",
+    "main.3747d40b.css.map": "/wildberries/static/css/main.3747d40b.css.map",
+    "main.1d7aa7e5.js.map": "/wildberries/static/js/main.1d7aa7e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3747d40b.css",
+    "static/js/main.1d7aa7e5.js"
+  ]
+}
