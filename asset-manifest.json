@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wildberries/static/css/main.3747d40b.css",
-    "main.js": "/wildberries/static/js/main.1d7aa7e5.js",
+    "main.css": "/wildberries/static/css/main.54a3696c.css",
+    "main.js": "/wildberries/static/js/main.97fc1b7d.js",
     "index.html": "/wildberries/index.html",
-    "main.3747d40b.css.map": "/wildberries/static/css/main.3747d40b.css.map",
-    "main.1d7aa7e5.js.map": "/wildberries/static/js/main.1d7aa7e5.js.map"
+    "main.54a3696c.css.map": "/wildberries/static/css/main.54a3696c.css.map",
+    "main.97fc1b7d.js.map": "/wildberries/static/js/main.97fc1b7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3747d40b.css",
-    "static/js/main.1d7aa7e5.js"
+    "static/css/main.54a3696c.css",
+    "static/js/main.97fc1b7d.js"
   ]
 }
